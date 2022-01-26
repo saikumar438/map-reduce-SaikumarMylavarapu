@@ -1,2 +1,2 @@
 # map-reduce-SaikumarMylavarapu
-This is for practice 
+This is to practice map and reduce.
